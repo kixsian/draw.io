@@ -1,9 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T17:57:25.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="HtothT12fvDtMRj73FG5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T18:39:02.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uNeZ29TPQtVvxcqT07Bp" version="24.4.4" type="github">
   <diagram name="Page-1" id="yNWbIJhcjjPzjHwh98C_">
-    <mxGraphModel>
+    <mxGraphModel dx="1429" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-6" target="V2gFna-NxZ_nPuS2aWUD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQwMCA0MDAiIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48cGF0aCBkPSJNMCAwaDQwMHY0MDBIMHoiIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiM2MzViZmYiLz48cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojZmZmIiBkPSJNMTg0LjQgMTU1LjVjMC05LjQgNy43LTEzLjEgMjAuNS0xMy4xIDE4LjQgMCA0MS42IDUuNiA2MCAxNS41di01Ni44QzI0NC44IDkzLjEgMjI1IDkwIDIwNSA5MGMtNDkuMSAwLTgxLjcgMjUuNi04MS43IDY4LjQgMCA2Ni43IDkxLjkgNTYuMSA5MS45IDg0LjkgMCAxMS4xLTkuNyAxNC43LTIzLjIgMTQuNy0yMC4xIDAtNDUuNy04LjItNjYtMTkuM3Y1Ny41YzIyLjUgOS43IDQ1LjIgMTMuOCA2NiAxMy44IDUwLjMgMCA4NC45LTI0LjkgODQuOS02OC4yLS40LTcyLTkyLjUtNTkuMi05Mi41LTg2LjN6Ii8+PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-7" target="V2gFna-NxZ_nPuS2aWUD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="675" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;FLOW&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="70" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;BANK&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-11" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-18" value="Payout Event sent to Event Bridge" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-19" value="Payout from Stripe to Bank" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-21" value="FLOW Requests Recon Report" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-22" value="Flow looks for payout" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.9999999999998" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-23" target="V2gFna-NxZ_nPuS2aWUD-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-25" value="Lambda listening for payout event" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-26" value="This lambda will take Deposit amount + date/time info from Flow and match it to payout ID from stripe event" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="441" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2gFna-NxZ_nPuS2aWUD-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.99999999999977" y="536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-27" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393" y="500" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-29" value="call processing lambda passing it the payout id" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="535" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-30" value="Lambda queries Stripe API;&#39;s required to build CSV for SAP Finance team based off of passed payout id" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-31" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="130" y="511" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="V2gFna-NxZ_nPuS2aWUD-33" value="Pass copmleted file to S3 bucket for SFTP pickup." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
